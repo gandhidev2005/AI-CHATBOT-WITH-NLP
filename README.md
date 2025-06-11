@@ -1,1 +1,13 @@
 # AI-CHATBOT-WITH-NLP
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: Dev Nilesh Gandhi
+
+*INTERN ID*: CT04DM1209
+
+*DOMAIN*: Python Programming
+
+*DURATION*: 4 weeks
+
+*MENTOR*: Neela Santhosh Kumar
